@@ -4,27 +4,27 @@ Welcome to the SSPA (Smart Plant Automation) project GitHub organization! This o
 
 ## Repositories
 
-### 1. RxSPA
+### 1. [RxSPA](https://github.com/SPAUTN/RxSPA)
 - **Description:** This repository contains the code for the microcontroller master (RxSPA) responsible for polling data from the slave microcontroller.
 - **Purpose:** Facilitates communication between master and slave, enabling the transfer of data essential for the SSPA project.
 
-### 2. ADCSPA
+### 2. [ADCSPA](https://github.com/SPAUTN/ADCSPA)
 - **Description:** Here lies the code for the microcontroller slave (ADCSPA), which reads sensor data from the meteorological station and lysimeter. Additionally, it can execute irrigation tasks for plant care.
 - **Purpose:** Enables the slave microcontroller to gather data from various sensors and perform crucial tasks like irrigation based on the received information.
 
-### 3. Utils
+### 3. [Utils](https://github.com/SPAUTN/Utils)
 - **Description:** This repository houses common functions and utilities used by both RxSPA and ADCSPA. The code is packaged as a library and is published on PlatformIO Hub.
 - **Purpose:** Provides a shared set of functionalities for both master and slave microcontrollers, enhancing code modularity and maintainability.
 
-### 4. SPA-Backend
+### 4. [SPA-Backend](https://github.com/SPAUTN/SPA-Backend)
 - **Description:** The API code responsible for inserting and selecting data into the database from the microcontroller master (RxSPA).
 - **Purpose:** Facilitates the interaction between the master microcontroller and the database, ensuring seamless data management for the SSPA project.
 
-### 5. 3DModels
+### 5. [3DModels](https://github.com/SPAUTN/3DModels)
 - **Description:** Storehouse for 3D models in STL format, designed for 3D printers. These models are related to the physical components of the SSPA project.
 - **Purpose:** Provides a centralized location for 3D printable models essential for constructing physical components related to the SSPA project.
 
-### 6. Eagle Board
+### 6. [Eagle Board](https://github.com/SPAUTN/EagleBoard)
 - **Description:** Repository containing 3D models for the boards designed using Eagle software.
 - **Purpose:** Holds the electronic board designs in a format compatible with Eagle, offering a resource for visualizing and fabricating the necessary electronic components for the SSPA project.
 
