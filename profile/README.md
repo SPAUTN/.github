@@ -31,6 +31,11 @@ Welcome to the SSPA (Smart Plant Automation) project GitHub organization! This o
 ## Contribution Guidelines
 We encourage and welcome contributions from the community. Please follow the guidelines outlined in each repository's `CONTRIBUTING.md` file to ensure a smooth collaboration process.
 
+## Members
+- [Julián Camargo](https://github.com/julian87nicolas)
+- [Lucas Capozzelli](https://github.com/LucasCapozzelli)
+- [Facundo Tedesco](https://github.com/FacuTedesco)
+
 Feel free to explore each repository to understand their specific functionalities and contributions to the overall SSPA project. Thank you for being part of our community! If you have any questions or suggestions, don't hesitate to reach out.
 
 Happy coding! 🌱✨
